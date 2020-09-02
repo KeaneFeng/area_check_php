@@ -8,9 +8,9 @@
  */
 
 return [
-    'host' => '47.113.224.83',
-    'port' => 6383,
-    'password'=>'ycabc6383',
+    'host' => '127.0.0.1',
+    'port' => 6379,
+    'password'=>'123456',
     'out_time' => 120,
     'timeOut' => 5, // 超时时间
     'area_ip_key' => [
